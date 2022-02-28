@@ -1,5 +1,11 @@
 # VideoArchiveWorkshop
 
+### Agenda
+1. Tour of [www.linokinoarchive.com](https://www.linokinoarchive.com/)
+2. Tour of LK archive code + tooling
+3. How to build a website from scratch
+
+
 ### Tools
 1. [Visual Studio Code](https://code.visualstudio.com/download) - *The editor where I write all my code*
 2. [GitHub](https://github.com/) - *Where you'll host the raw source code (similar to collaborative Google Docs)*
