@@ -2,9 +2,16 @@
 
 ### Agenda
 1. Tour of [www.linokinoarchive.com](https://www.linokinoarchive.com/)
-2. Tour of LK archive code + tooling
+2. Tour of LK archive code + tools
 3. How to build a website from scratch
 
+### Design decisions
+
+#### Building from scratch vs. Wordpress, Wix etc.
+TODO
+
+#### Self-hosting videos vs. embedding from YouTube/Vimeo
+TODO
 
 ### Tools
 1. [Visual Studio Code](https://code.visualstudio.com/download) - *The editor where I write all my code*
