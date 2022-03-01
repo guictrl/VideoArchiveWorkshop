@@ -8,9 +8,10 @@
 ## About me
 
 - I'm Adam, and got connected to LK through Em in Seattle
-- I write image processing code for ultrasound machines
+- I write image processing code for ultrasound machines at Philips Healthcare
   ![](images/ultrasound.png)
-- I started making websites in November when Em shared her dream of having an online archive for all of LK's work
+- I started making websites in October when Em told me her dream of having an online archive for all of LK's work
+- I still don't really know what I'm doing, so take everything with a grain of salt - these are the things I've found that work best for me :)
 
 ## Tour of LK archive
 [www.linokinoarchive.com](https://www.linokinoarchive.com/)
