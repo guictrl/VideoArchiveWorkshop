@@ -3,7 +3,7 @@
 ### Agenda
 1. Tour of [www.linokinoarchive.com](https://www.linokinoarchive.com/)
 ![](images/lk-archive.png)
-2. Tour of LK archive code + tools
+2. Tour of LK archive design decisions + code + tools
 3. How to build a website from scratch
 
 
