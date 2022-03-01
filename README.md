@@ -5,6 +5,13 @@
 2. [Tour of LK archive design decisions + code + tools](#tour-of-tools)
 3. [How to build a website from scratch](#building-a-website-from-scratch)
 
+## About me
+
+- I'm Adam, and got connected to LK through Em in Seattle
+- I write image processing code for ultrasound machines
+  ![](images/ultrasound.png)
+- I started making websites in November when Em shared her dream of having an online archive for all of LK's work
+
 ## Tour of LK archive
 [www.linokinoarchive.com](https://www.linokinoarchive.com/)
 ![](images/lk-archive.png)
@@ -14,10 +21,11 @@
 ### Design decisions
 
 #### Building from scratch vs. Wordpress, Wix etc.
-1. 
+- I wanted full control since I'm already familiar with coding
+- Wanted to avoid cookie cutter WordPress look, fighting with templates, paid features etc.
 
 #### Self-hosting videos vs. embedding from YouTube/Vimeo
-TODO
+-
 
 ### Tools
 1. [Visual Studio Code](https://code.visualstudio.com/download) - *The editor where I write all my code*
