@@ -11,7 +11,7 @@
 
 ## Agenda
 ### 1. [Tour of LK archive website](#tour-of-lk-archive)
-### 2. [Tour of LK archive backend](#tour-of-tools)
+### 2. [How we did it](#how-we-did-it)
 - Design decisions
 - Tools we used
 - Cost
@@ -28,7 +28,7 @@
 [www.linokinoarchive.com](https://www.linokinoarchive.com/)
 ![](images/lk-archive.png)
 
-## Tour of tools
+## How we did it
 
 ### Design decisions
 
@@ -43,7 +43,7 @@
 ![](images/google-cloud-storage.png)
 
 ### Tools
-| Tool     | Description | Cost/month |
+| Tool     | Description | $/month |
 | ----------- | ----------- | ----------- |
 | [Visual Studio Code](https://code.visualstudio.com/download) | *The editor where I write all my code* | Free |
 | [GitHub](https://github.com/)| *Where I host the raw source code (similar to collaborative Google Docs)* | Free |
@@ -51,11 +51,14 @@
 | [Google Firebase Hosting](https://firebase.google.com/docs/hosting) | *The backend where I host the website on the internet* | Free tier |
 | [Google Firestore Database](https://cloud.google.com/firestore) | *The backend where I host the content database (e.g. artist + film info)* | Free tier |
 | [Google Cloud Storage](https://cloud.google.com/storage) | *Where I host the actual video content (as opposed to embedding YouTube/Vimeo videos)* | $1.76 |
-| [Algolia Search](https://www.algolia.com/) | *The service I use for searching the database* | Free tier |
-| | **Total** | $1.76 |
+| | **Total** | $2.76 |
+
+### Data flow
+![](images/data-flow.png)
 
 ### Database layout
-Website content is dynamically loaded from the database
+- Website content is dynamically loaded from the database
+- This prevents us from having to write new code everytime we add a new artist or film
 ![](images/database-example.png)
 
 Shared 'keys' between database tables let us fluidly traverse between artists <--> films <--> programming
@@ -104,6 +107,12 @@ I use Google Domains just because a lot of my other tools are Google-based
 ### 5. Add Google Firebase to your Visual Studio Code Project
 
 ### 6. Direct your Firebase project to the domain name you bought
+ 
+## How to steal code
+
+![](images/emslater.png)
+
+## How to write code
 
 As a simple example to cover a lot of the basics, lets build a clone of [www.online-ceramics.com](https://online-ceramics.com/)
 ![](images/online-ceramics.png)
