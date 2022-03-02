@@ -76,6 +76,7 @@ I use Google Domains just because a lot of my other tools are Google-based
 #### Download Visual Studio Code
 - This is where you'll write all the code for your site.
 - It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
+
 ![](images/visual-studio-code.png)
 
 #### Create a GitHub account
@@ -83,6 +84,7 @@ I use Google Domains just because a lot of my other tools are Google-based
 - Think collaborative Google Drive
 - Mutiple people can work on the same communal code repository, and have access to all the revision history
 - No more AdamZielResume.pdf, AdamZielResume_1.pdf, AdamZielResume_Final.pdf etc.
+
 ![](images/github.png)
 
 #### Create a Google Firebase account
