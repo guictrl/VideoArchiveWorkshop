@@ -43,7 +43,7 @@
 ![](images/google-cloud-storage.png)
 
 ### Tools
-| Tool     | Description | Cost/month |
+| Tool     | Description | $/month |
 | ----------- | ----------- | ----------- |
 | [Visual Studio Code](https://code.visualstudio.com/download) | *The editor where I write all my code* | Free |
 | [GitHub](https://github.com/)| *Where I host the raw source code (similar to collaborative Google Docs)* | Free |
@@ -51,8 +51,7 @@
 | [Google Firebase Hosting](https://firebase.google.com/docs/hosting) | *The backend where I host the website on the internet* | Free tier |
 | [Google Firestore Database](https://cloud.google.com/firestore) | *The backend where I host the content database (e.g. artist + film info)* | Free tier |
 | [Google Cloud Storage](https://cloud.google.com/storage) | *Where I host the actual video content (as opposed to embedding YouTube/Vimeo videos)* | $1.76 |
-| [Algolia Search](https://www.algolia.com/) | *The service I use for searching the database* | Free tier |
-| | **Total** | $1.76 |
+| | **Total** | $2.76 |
 
 ### Data flow
 ![](images/data-flow.png)
