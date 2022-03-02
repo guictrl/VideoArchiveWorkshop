@@ -10,9 +10,15 @@
 ### 💀DISCLAIMER!💀 I'm really new to this, so take everything with a grain of salt! These are just the things I've found that work best for me :)
 
 ## Agenda
-1. [Tour of LK archive](#tour-of-lk-archive)
-2. [Tour of LK archive design decisions + code + tools](#tour-of-tools)
-3. [How to build a website from scratch](#building-a-website-from-scratch)
+### 1. [Tour of LK archive website](#tour-of-lk-archive)
+### 2. [Tour of LK archive backend](#tour-of-tools)
+- Design decisions
+- Tools we used
+- Cost
+### 3. [How to build a website from scratch](#building-a-website-from-scratch)
+- How to host a custom 'from scratch' website
+- How to steal code
+- How to write code
 
 ## Tour of LK archive
 ### Context
@@ -37,10 +43,11 @@
 ![](images/google-cloud-storage.png)
 
 ### Tools
-| Tool     | Description | Cost |
+| Tool     | Description | Cost/month |
 | ----------- | ----------- | ----------- |
 | [Visual Studio Code](https://code.visualstudio.com/download) | *The editor where I write all my code* | Free |
 | [GitHub](https://github.com/)| *Where I host the raw source code (similar to collaborative Google Docs)* | Free |
+| [Google Domains](https://firebase.google.com/docs/hosting) | *Where I bought the domain* | $1 ($12/year) |
 | [Google Firebase Hosting](https://firebase.google.com/docs/hosting) | *The backend where I host the website on the internet* | Free tier |
 | [Google Firestore Database](https://cloud.google.com/firestore) | *The backend where I host the content database (e.g. artist + film info)* | Free tier |
 | [Google Cloud Storage](https://cloud.google.com/storage) | *Where I host the actual video content (as opposed to embedding YouTube/Vimeo videos)* | $1.76 |
@@ -77,11 +84,15 @@ I use Google Domains just because a lot of my other tools are Google-based
 - This is where you'll write all the code for your site.
 - It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
 
+![](images/visual-studio-code.png)
+
 #### Create a GitHub account
 - This is where you'll track all the revisions of your code
 - Think collaborative Google Drive
 - Mutiple people can work on the same communal code repository, and have access to all the revision history
 - No more AdamZielResume.pdf, AdamZielResume_1.pdf, AdamZielResume_Final.pdf etc.
+
+![](images/github.png)
 
 #### Create a Google Firebase account
 - This is what will host your code from GitHub on the internet
