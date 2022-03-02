@@ -41,6 +41,7 @@
 | [Google Firebase](https://firebase.google.com) | *The backend where I host the website and content database* | $1.76 |
 | [Google Cloud Storage](https://cloud.google.com/storage) | *Where I host the actual video content (as opposed to embedding YouTube/Vimeo videos)* | $1.76 |
 | [Algolia Search](https://cloud.google.com/storage) | *The service I use for searching the database* | $1.76 |
+| | **Total** | $4.00 |
 
 ### Helpful learning resources
 1. [Stack Overflow](https://stackoverflow.com/questions/114543/how-to-horizontally-center-an-element) - *The authoritative coding Q&A forum - usually the 1st site that will come up whenever you google a 'How do I do X?' coding question*
