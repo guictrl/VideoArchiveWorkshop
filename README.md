@@ -11,7 +11,7 @@
 
 ## Agenda
 ### 1. [Tour of LK archive website](#tour-of-lk-archive)
-### 2. [Tour of LK archive backend](#tour-of-tools)
+### 2. [How we did it](#how-we-did-it)
 - Design decisions
 - Tools we used
 - Cost
@@ -28,7 +28,7 @@
 [www.linokinoarchive.com](https://www.linokinoarchive.com/)
 ![](images/lk-archive.png)
 
-## Tour of tools
+## How we did it
 
 ### Design decisions
 
