@@ -111,6 +111,7 @@ I use Google Domains just because a lot of my other tools are Google-based
 ## How to steal code
 
 ![](images/emslater.png)
+
 [stealing.rocks](https://www.stealing.rocks/)
 
 ## How to write code
