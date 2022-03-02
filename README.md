@@ -110,11 +110,16 @@ I use Google Domains just because a lot of my other tools are Google-based
  
 ## How to steal code
 
+Right-click a website and select 'Inspect' to see the source code:
+![](images/inspect.png)
+
 ![](images/emslater.png)
 
 Inspirations:
 - [noamori.com](https://www.noamori.com/)
 - [https://exp.paperdove.com/chillin/](https://exp.paperdove.com/chillin/)
+
+
 
 [stealing.rocks](https://www.stealing.rocks/)
 
