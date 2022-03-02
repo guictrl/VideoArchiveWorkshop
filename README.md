@@ -54,6 +54,9 @@
 | [Algolia Search](https://www.algolia.com/) | *The service I use for searching the database* | Free tier |
 | | **Total** | $1.76 |
 
+### Data flow
+![](images/data-flow.png)
+
 ### Database layout
 Website content is dynamically loaded from the database
 ![](images/database-example.png)
