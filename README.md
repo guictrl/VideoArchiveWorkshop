@@ -108,9 +108,9 @@ I use Google Domains just because a lot of my other tools are Google-based
 
 ### 6. Direct your Firebase project to the domain name you bought
  
-## How to write code
-
 ## How to steal code
+
+## How to write code
 
 As a simple example to cover a lot of the basics, lets build a clone of [www.online-ceramics.com](https://online-ceramics.com/)
 ![](images/online-ceramics.png)
