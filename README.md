@@ -1,10 +1,5 @@
 # VideoArchiveWorkshop
 
-## Agenda
-1. [Tour of LK archive](#tour-of-lk-archive)
-2. [Tour of LK archive design decisions + code + tools](#tour-of-tools)
-3. [How to build a website from scratch](#building-a-website-from-scratch)
-
 ## About me
 
 - I'm Adam, and got connected to LK through Em in Seattle
@@ -13,7 +8,16 @@
 - I started making websites in October when Em told me her dream of having an online archive for all of LK's work
 ### 💀DISCLAIMER!💀 I'm really new to this, so take everything with a grain of salt! These are just the things I've found that work best for me :)
 
+## Agenda
+1. [Tour of LK archive](#tour-of-lk-archive)
+2. [Tour of LK archive design decisions + code + tools](#tour-of-tools)
+3. [How to build a website from scratch](#building-a-website-from-scratch)
+
 ## Tour of LK archive
+### Context
+- Wanted a place to archive all the work that's been shown at in-person LK screenings over the years
+- Experimental film libraries aren't super common, can be expensive to access
+
 [www.linokinoarchive.com](https://www.linokinoarchive.com/)
 ![](images/lk-archive.png)
 
