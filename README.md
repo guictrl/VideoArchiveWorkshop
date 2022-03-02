@@ -46,7 +46,10 @@
 | | **Total** | $1.76 |
 
 ### Database layout
+Website content is dynamically loaded from the database
 ![](images/database-example.png)
+
+Shared 'keys' between database tables let us fluidly traverse between artists <--> films <--> programming
 ![](images/database-schema.png)
 
 ### Helpful learning resources
