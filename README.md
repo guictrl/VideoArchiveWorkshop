@@ -34,10 +34,13 @@
 - Again, this gives us more freedom (e.g. YouTube copyright + terms of service)
 
 ### Tools
-1. [Visual Studio Code](https://code.visualstudio.com/download) - *The editor where I write all my code*
-2. [GitHub](https://github.com/) - *Where you'll host the raw source code (similar to collaborative Google Docs)*
-3. [Google Firebase](https://firebase.google.com) - *The backend where I host the website and content database*
-4. [Google Cloud Storage](https://cloud.google.com/storage) - *Where I host the actual video content (as opposed to embedding YouTube/Vimeo videos)*
+| Tool     | Description | Cost |
+| ----------- | ----------- | ----------- |
+| [Visual Studio Code](https://code.visualstudio.com/download) | *The editor where I write all my code* | Free |
+| [GitHub](https://github.com/)| *Where you'll host the raw source code (similar to collaborative Google Docs)* | Free |
+| [Google Firebase](https://firebase.google.com) | *The backend where I host the website and content database* | $1.76 |
+| [Google Cloud Storage](https://cloud.google.com/storage) | *Where I host the actual video content (as opposed to embedding YouTube/Vimeo videos)* | $1.76 |
+| [Algolia Search](https://cloud.google.com/storage) | *The service I use for searching the database* | $1.76 |
 
 ### Helpful learning resources
 1. [Stack Overflow](https://stackoverflow.com/questions/114543/how-to-horizontally-center-an-element) - *The authoritative coding Q&A forum - usually the 1st site that will come up whenever you google a 'How do I do X?' coding question*
