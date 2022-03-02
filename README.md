@@ -58,7 +58,8 @@
 ![](images/data-flow.png)
 
 ### Database layout
-Website content is dynamically loaded from the database
+- Website content is dynamically loaded from the database
+- This prevents us from having to write new code everytime we add a new artist or film
 ![](images/database-example.png)
 
 Shared 'keys' between database tables let us fluidly traverse between artists <--> films <--> programming
