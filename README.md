@@ -118,7 +118,7 @@ Right-click a website and select 'Inspect' to see the source code:
 Inspirations:
 - [noamori.com](https://www.noamori.com/)
 - [https://exp.paperdove.com/chillin/](https://exp.paperdove.com/chillin/)
-
+- [https://furqanjawed.com/](https://furqanjawed.com/)
 
 
 [stealing.rocks](https://www.stealing.rocks/)
