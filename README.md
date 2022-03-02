@@ -112,6 +112,10 @@ I use Google Domains just because a lot of my other tools are Google-based
 
 ![](images/emslater.png)
 
+Inspirations:
+- [noamori.com](https://www.noamori.com/)
+- [https://exp.paperdove.com/chillin/](https://exp.paperdove.com/chillin/)
+
 [stealing.rocks](https://www.stealing.rocks/)
 
 ## How to write code
