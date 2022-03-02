@@ -26,11 +26,12 @@
 ### Design decisions
 
 #### Building from scratch vs. Wordpress, Wix etc.
-- I wanted full control since I'm already familiar with coding
+- I wanted full freedom + control since I'm already familiar with coding
 - Wanted to avoid cookie cutter WordPress look, fighting with templates, paid features etc.
+- Wanted the archive to be aesthetically simple to provide a neutral backdrop that'd fit everyone's video. *I.e. focus on providing information, avoid window dressing*
 
 #### Self-hosting videos vs. embedding from YouTube/Vimeo
--
+- Again, this gives us more freedom (e.g. YouTube copyright + terms of service)
 
 ### Tools
 1. [Visual Studio Code](https://code.visualstudio.com/download) - *The editor where I write all my code*
