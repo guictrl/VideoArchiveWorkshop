@@ -62,3 +62,5 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 ## Building a website from scratch
 [www.online-ceramics.com](https://online-ceramics.com/)
 ![](images/online-ceramics.png)
+
+![](images/codepen.png)
