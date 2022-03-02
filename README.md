@@ -63,4 +63,5 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 As a simple example to cover a lot of the basics, lets build a clone of [www.online-ceramics.com](https://online-ceramics.com/)
 ![](images/online-ceramics.png)
 
+You can follow along at [this link](https://codepen.io/adamziel/pen/dyZQavw)
 ![](images/codepen.png)
