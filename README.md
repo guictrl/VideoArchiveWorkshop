@@ -60,7 +60,42 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 ![](images/w3-school.png)
 
 ## Building a website from scratch
-[www.online-ceramics.com](https://online-ceramics.com/)
+
+### 1. Buy a domain
+Some options:
+- Google Domains
+- GoDaddy
+- Namecheap
+- PorkBun
+
+Shop around, prices usually vary a bit from site to site.
+
+I use Google Domains just because a lot of my other tools are Google-based
+
+### 2. Get the tools
+#### Download Visual Studio Code
+- This is where you'll write all the code for your site.
+- It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
+
+#### Create a GitHub account
+- This is where you'll track all the revisions of your code
+- Think collaborative Google Drive
+- Mutiple people can work on the same communal code repository, and have access to all the revision history
+- No more AdamZielResume.pdf, AdamZielResume_1.pdf, AdamZielResume_Final.pdf etc.
+
+#### Create a Google Firebase account
+- This is what will host your code from GitHub on the internet
+
+### 3. Create a GitHub repository
+
+### 4. Clone your GitHub repository into Visual Studio Code
+
+### 5. Add Google Firebase to your Visual Studio Code Project
+
+### 6. Direct your Firebase project to the domain name you bought
+
+As a simple example to cover a lot of the basics, lets build a clone of [www.online-ceramics.com](https://online-ceramics.com/)
 ![](images/online-ceramics.png)
 
+You can follow along at [this link](https://codepen.io/adamziel/pen/dyZQavw)
 ![](images/codepen.png)
