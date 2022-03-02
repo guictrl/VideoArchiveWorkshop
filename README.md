@@ -10,9 +10,15 @@
 ### 💀DISCLAIMER!💀 I'm really new to this, so take everything with a grain of salt! These are just the things I've found that work best for me :)
 
 ## Agenda
-1. [Tour of LK archive](#tour-of-lk-archive)
-2. [Tour of LK archive design decisions + code + tools](#tour-of-tools)
-3. [How to build a website from scratch](#building-a-website-from-scratch)
+### 1. [Tour of LK archive website](#tour-of-lk-archive)
+### 2. [Tour of LK archive backend](#tour-of-tools)
+- Design decisions
+- Tools we used
+- Cost
+### 3. [How to build a website from scratch](#building-a-website-from-scratch)
+- How to host a custom 'from scratch' website
+- How to steal code
+- How to write code
 
 ## Tour of LK archive
 ### Context
