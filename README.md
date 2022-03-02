@@ -6,6 +6,7 @@
 - I write image processing code for ultrasound machines at Philips Healthcare *(i.e. I'm familiar with code, but not with web development)
   ![](images/ultrasound.png)*
 - I started making websites in October when Em told me her dream of having an online archive for all of LK's work
+- [adamziel.today](https://adamziel.today)
 ### 💀DISCLAIMER!💀 I'm really new to this, so take everything with a grain of salt! These are just the things I've found that work best for me :)
 
 ## Agenda
