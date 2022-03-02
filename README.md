@@ -60,3 +60,4 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 ![](images/w3-school.png)
 
 ## Building a website from scratch
+![](images/online-ceramics.png)
