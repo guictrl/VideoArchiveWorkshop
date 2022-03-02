@@ -60,7 +60,7 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 ![](images/w3-school.png)
 
 ## Building a website from scratch
-[www.online-ceramics.com](https://online-ceramics.com/)
+As a simple example to cover a lot of the basics, lets build a clone of [www.online-ceramics.com](https://online-ceramics.com/)
 ![](images/online-ceramics.png)
 
 ![](images/codepen.png)
