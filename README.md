@@ -57,6 +57,6 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 ### Helpful learning resources
 1. [Stack Overflow](https://stackoverflow.com/questions/114543/how-to-horizontally-center-an-element) - *The authoritative coding Q&A forum - usually the 1st site that will come up whenever you google a 'How do I do X?' coding question*
 2. [W3School](https://www.w3schools.com/) - *Super clear tutorials for basic HTML, CSS, and Javascript stuff. It has really cool [Try it Yourself](https://www.w3schools.com/css/tryit.asp?filename=trycss_default) windows where you can live-edit sample code and then see what it does to the webpage in real-time*
-![](images/w3school.png)
+![](images/w3-school.png)
 
 ## Building a website from scratch
