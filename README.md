@@ -38,10 +38,10 @@
 | ----------- | ----------- | ----------- |
 | [Visual Studio Code](https://code.visualstudio.com/download) | *The editor where I write all my code* | Free |
 | [GitHub](https://github.com/)| *Where I host the raw source code (similar to collaborative Google Docs)* | Free |
-| [Google Firebase Hosting](https://firebase.google.com) | *The backend where I host the website on the internet* | Free tier |
-| [Google Firestore Database](https://firebase.google.com) | *The backend where I host the content database (e.g. artist + film info)* | Free tier |
+| [Google Firebase Hosting](https://firebase.google.com/docs/hosting) | *The backend where I host the website on the internet* | Free tier |
+| [Google Firestore Database](https://cloud.google.com/firestore) | *The backend where I host the content database (e.g. artist + film info)* | Free tier |
 | [Google Cloud Storage](https://cloud.google.com/storage) | *Where I host the actual video content (as opposed to embedding YouTube/Vimeo videos)* | $1.76 |
-| [Algolia Search](https://cloud.google.com/storage) | *The service I use for searching the database* | Free tier |
+| [Algolia Search](https://www.algolia.com/) | *The service I use for searching the database* | Free tier |
 | | **Total** | $1.76 |
 
 ### Helpful learning resources
