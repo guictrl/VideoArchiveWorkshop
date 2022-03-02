@@ -34,6 +34,8 @@
 #### Self-hosting videos vs. embedding from YouTube/Vimeo
 - Again, this gives us more freedom (e.g. YouTube copyright + terms of service)
 
+![](images/google-cloud-storage.png)
+
 ### Tools
 | Tool     | Description | Cost |
 | ----------- | ----------- | ----------- |
