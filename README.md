@@ -10,12 +10,12 @@
 ### 💀DISCLAIMER!💀 I'm really new to this, so take everything with a grain of salt! These are just the things I've found that work best for me :)
 
 ## Agenda
-### 1. [Tour of LK archive website](#tour-of-lk-archive)
-### 2. [How we did it](#how-we-did-it)
+### 1. [Tour of LK archive website](#tour-of-lk-archive) [5 min]
+### 2. [How we did it](#how-we-did-it) [15 min]
 - Design decisions
 - Tools we used
 - Cost
-### 3. [How to build a website from scratch](#building-a-website-from-scratch)
+### 3. [How to build a website from scratch](#building-a-website-from-scratch) [the rest]
 - How to host a custom 'from scratch' website
 - How to steal code
 - How to write code
@@ -110,11 +110,16 @@ I use Google Domains just because a lot of my other tools are Google-based
  
 ## How to steal code
 
+Right-click a website and select 'Inspect' to see the source code:
+![](images/inspect.png)
+
 ![](images/emslater.png)
 
 Inspirations:
 - [noamori.com](https://www.noamori.com/)
 - [https://exp.paperdove.com/chillin/](https://exp.paperdove.com/chillin/)
+- [https://furqanjawed.com/](https://furqanjawed.com/)
+
 
 [stealing.rocks](https://www.stealing.rocks/)
 
