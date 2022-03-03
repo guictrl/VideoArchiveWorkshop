@@ -106,6 +106,12 @@ Pick a name and whether you want it to be private or public:
 
 ### 5. Add Google Firebase to your Visual Studio Code Project
 
+[https://firebase.google.com/docs/hosting/quickstart?authuser=0](https://firebase.google.com/docs/hosting/quickstart?authuser=0)
+
+`firebase init hosting`
+
+`firebase deploy --only hosting`
+
 ### 6. Direct your Firebase project to the domain name you bought
  
 ## How to steal code
