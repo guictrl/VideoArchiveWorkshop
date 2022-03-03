@@ -18,7 +18,7 @@
 ### 3. [How to build a website from scratch](#building-a-website-from-scratch) [the rest]
 - How to host a custom 'from scratch' website
 - How to steal code 😈
-- How to write code
+- How to write code 👼
 
 ## Tour of LK archive
 ### Context
