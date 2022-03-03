@@ -89,7 +89,7 @@ I use Google Domains just because a lot of my other tools are Google-based
 
 ![](images/visual-studio-code.png)
 
-#### Create a GitHub account
+#### Create a GitHub account and create a new repository
 - This is where you'll track all the revisions of your code
 - Think collaborative Google Drive
 - Mutiple people can work on the same communal code repository, and have access to all the revision history
@@ -97,12 +97,16 @@ I use Google Domains just because a lot of my other tools are Google-based
 
 ![](images/github.png)
 
+Pick a name and whether you want it to be private or public:
+![](images/github-new.png)
+
 #### Create a Google Firebase account
 - This is what will host your code from GitHub on the internet
 
-### 3. Create a GitHub repository
-
 ### 4. Clone your GitHub repository into Visual Studio Code
+
+### 4. Create a Firebase project
+![](images/firebase-new.png)
 
 ### 5. Add Google Firebase to your Visual Studio Code Project
 
@@ -119,7 +123,6 @@ Inspirations:
 - [noamori.com](https://www.noamori.com/)
 - [https://exp.paperdove.com/chillin/](https://exp.paperdove.com/chillin/)
 - [https://furqanjawed.com/](https://furqanjawed.com/)
-
 
 [stealing.rocks](https://www.stealing.rocks/)
 
