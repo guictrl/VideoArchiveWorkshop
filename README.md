@@ -11,16 +11,16 @@
 
 ## Agenda
 ### 1. [Tour of LK archive website](#tour-of-lk-archive) [5 min]
-### 2. [How we did it](#how-we-did-it)
+### 2. [How we did it](#how-we-did-it) [15 min]
 - Design decisions
 - Tools we used
 - Cost
-### 3. [How to build a website from scratch](#building-a-website-from-scratch) [15 min]
+### 3. [How to build a website from scratch](#building-a-website-from-scratch) [the rest]
 - How to host a custom 'from scratch' website
 - How to steal code
 - How to write code
 
-## Tour of LK archive [the rest]
+## Tour of LK archive
 ### Context
 - Wanted a place to archive all the work that's been shown at in-person LK screenings over the years
 - Experimental film libraries aren't super common, can be expensive to access
