@@ -82,14 +82,7 @@ Shop around, prices usually vary a bit from site to site.
 
 I use Google Domains just because a lot of my other tools are Google-based
 
-### 2. Get the tools
-#### Download Visual Studio Code
-- This is where you'll write all the code for your site.
-- It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
-
-![](images/visual-studio-code.png)
-
-#### Create a GitHub account and create a new repository
+### 2. Create a GitHub account and create a new repository
 - This is where you'll track all the revisions of your code
 - Think collaborative Google Drive
 - Mutiple people can work on the same communal code repository, and have access to all the revision history
@@ -100,12 +93,15 @@ I use Google Domains just because a lot of my other tools are Google-based
 Pick a name and whether you want it to be private or public:
 ![](images/github-new.png)
 
-#### Create a Google Firebase account
+### 3. Download Visual Studio Code and clone your GitHub repository
+- This is where you'll write all the code for your site.
+- It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
+![](images/visual-studio-code.png)
+
+
+### 4. Create a Google Firebase account and create a new project
 - This is what will host your code from GitHub on the internet
 
-### 4. Clone your GitHub repository into Visual Studio Code
-
-### 4. Create a Firebase project
 ![](images/firebase-new.png)
 
 ### 5. Add Google Firebase to your Visual Studio Code Project
