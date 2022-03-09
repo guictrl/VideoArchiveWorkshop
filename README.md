@@ -7,7 +7,7 @@
   ![](images/ultrasound.png)*
 - I started making websites in October when Em told me her dream of having an online archive for all of LK's work
 - [www.adamziel.today](https://adamziel.today), email: adam@ziel.today
-### 💀DISCLAIMER!💀 I'm really new to this, so take everything with a grain of salt! These are just the things I've found that work best for me :)
+### 💀DISCLAIMER!💀 I'm pretty new to this, so take what I say with a grain of salt! These are just the things I've found that work best for me :)
 
 ## Agenda
 ### 1. [Tour of LK archive website](#tour-of-lk-archive) [5 min]
@@ -17,8 +17,8 @@
 - Cost
 ### 3. [How to build a website from scratch](#building-a-website-from-scratch) [the rest]
 - How to host a custom 'from scratch' website
-- How to steal code
-- How to write code
+- How to steal code 😈
+- How to write code 👼
 
 ## Tour of LK archive
 ### Context
@@ -70,6 +70,10 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 ![](images/w3-school.png)
 
 ## Building a website from scratch
+I'll try my best to outline the steps for getting your own HTML/CSS/JavaScript code up onto a domain name you own.
+
+**To be frank, most of the work here is spent in the initial setup. Once your projects are all setup, you can pretty much coast afterward.
+The instructions here aren't 100% spelled out, so I'll continue editing this doc, but please HMU and I can help you through the setup.**
 
 ### 1. Buy a domain
 Some options:
@@ -82,14 +86,8 @@ Shop around, prices usually vary a bit from site to site.
 
 I use Google Domains just because a lot of my other tools are Google-based
 
-### 2. Get the tools
-#### Download Visual Studio Code
-- This is where you'll write all the code for your site.
-- It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
-
-![](images/visual-studio-code.png)
-
-#### Create a GitHub account
+### 2. Create a GitHub account and create a new repository
+www.github.com
 - This is where you'll track all the revisions of your code
 - Think collaborative Google Drive
 - Mutiple people can work on the same communal code repository, and have access to all the revision history
@@ -97,14 +95,28 @@ I use Google Domains just because a lot of my other tools are Google-based
 
 ![](images/github.png)
 
-#### Create a Google Firebase account
+Pick a name and whether you want it to be private or public:
+![](images/github-new.png)
+
+### 3. Download Visual Studio Code and clone your GitHub repository
+https://code.visualstudio.com/download
+- This is where you'll write all the code for your site
+- It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
+- It integrates with GitHub so you can 'push' the code you write up to GitHub, and then 'pull' other people's changes to your computer
+![](images/visual-studio-code.png)
+
+### 4. Create a Google Firebase account and create a new project
 - This is what will host your code from GitHub on the internet
 
-### 3. Create a GitHub repository
-
-### 4. Clone your GitHub repository into Visual Studio Code
+![](images/firebase-new.png)
 
 ### 5. Add Google Firebase to your Visual Studio Code Project
+
+[https://firebase.google.com/docs/hosting/quickstart?authuser=0](https://firebase.google.com/docs/hosting/quickstart?authuser=0)
+
+`firebase init hosting`
+
+`firebase deploy --only hosting`
 
 ### 6. Direct your Firebase project to the domain name you bought
  
@@ -119,7 +131,6 @@ Inspirations:
 - [noamori.com](https://www.noamori.com/)
 - [https://exp.paperdove.com/chillin/](https://exp.paperdove.com/chillin/)
 - [https://furqanjawed.com/](https://furqanjawed.com/)
-
 
 [stealing.rocks](https://www.stealing.rocks/)
 
