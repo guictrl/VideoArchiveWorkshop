@@ -7,7 +7,7 @@
   ![](images/ultrasound.png)*
 - I started making websites in October when Em told me her dream of having an online archive for all of LK's work
 - [www.adamziel.today](https://adamziel.today), email: adam@ziel.today
-### 💀DISCLAIMER!💀 I'm really new to this, so take everything with a grain of salt! These are just the things I've found that work best for me :)
+### 💀DISCLAIMER!💀 I'm pretty new to this, so take what I say with a grain of salt! These are just the things I've found that work best for me :)
 
 ## Agenda
 ### 1. [Tour of LK archive website](#tour-of-lk-archive) [5 min]
