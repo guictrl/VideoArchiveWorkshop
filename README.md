@@ -114,9 +114,11 @@ https://code.visualstudio.com/download
 
 [https://firebase.google.com/docs/hosting/quickstart?authuser=0](https://firebase.google.com/docs/hosting/quickstart?authuser=0)
 
-`firebase init hosting`
+`firebase login`
 
-`firebase deploy --only hosting`
+`firebase init`
+
+`firebase deploy`
 
 ### 6. Direct your Firebase project to the domain name you bought
  
