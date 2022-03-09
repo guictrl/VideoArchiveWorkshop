@@ -2,3 +2,12 @@ body {
   font-family: sans-serif;
   background-color: coral;
 }
+
+h1, p {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-decoration: underline;
+}
