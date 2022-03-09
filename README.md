@@ -70,6 +70,10 @@ Shared 'keys' between database tables let us fluidly traverse between artists <-
 ![](images/w3-school.png)
 
 ## Building a website from scratch
+I'll try my best to outline the steps for getting your own HTML/CSS/JavaScript code up onto a domain name you own.
+
+**To be frank, most of the work here is spent in the initial setup. Once your projects are all setup, you can pretty much coast afterward.
+The instructions here aren't 100% spelled out, so I'll continue editing this doc, but please HMU and I can help you through the setup.**
 
 ### 1. Buy a domain
 Some options:
