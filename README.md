@@ -87,6 +87,7 @@ Shop around, prices usually vary a bit from site to site.
 I use Google Domains just because a lot of my other tools are Google-based
 
 ### 2. Create a GitHub account and create a new repository
+www.github.com
 - This is where you'll track all the revisions of your code
 - Think collaborative Google Drive
 - Mutiple people can work on the same communal code repository, and have access to all the revision history
