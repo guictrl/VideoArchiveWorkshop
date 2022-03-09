@@ -121,6 +121,8 @@ https://code.visualstudio.com/download
 `firebase deploy`
 
 ### 6. Direct your Firebase project to the domain name you bought
+
+![](images/firebase-hosting.png)
  
 ## How to steal code
 
