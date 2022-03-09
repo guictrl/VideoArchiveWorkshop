@@ -100,8 +100,9 @@ Pick a name and whether you want it to be private or public:
 
 ### 3. Download Visual Studio Code and clone your GitHub repository
 https://code.visualstudio.com/download
-- This is where you'll write all the code for your site.
+- This is where you'll write all the code for your site
 - It's just a fancy text editor that supports HTML, CSS, JavaScript etc.
+- It integrates with GitHub so you can 'push' the code you write up to GitHub, and then 'pull' other people's changes to your computer
 ![](images/visual-studio-code.png)
 
 ### 4. Create a Google Firebase account and create a new project
